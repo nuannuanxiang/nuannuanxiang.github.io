@@ -51,7 +51,7 @@ permalink: /research/
 	  		<br>
 	  		<br>
 	  		<p style="font-style:italic;">
-	  			*<a href="https://shiraito.github.io" target="_blank">CSSS 20th anniversay conference</a> poster award
+	  			*<a href="https://csss.uw.edu/about/news/csss-20th-anniversary-conference" target="_blank">CSSS 20th anniversay conference</a> poster award
 	  		</p>
 	  	</div>
 	  	<br>
