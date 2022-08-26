@@ -32,7 +32,7 @@ layout: home
     <br>
     Columbia University
     <br>
-    (Starting 2024 Jan.)
+    (Starting January 2024)
     </p>
   </div>
 
