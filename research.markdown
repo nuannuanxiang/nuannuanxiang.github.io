@@ -9,7 +9,6 @@ permalink: /research/
 		<p style="font-weight:600">
 			Between Public Health and Social Welfare: How the Politics of State-building Uncoupled Maternal and Infant Health 
 		</p>
-		<div class="subsection-text">
 	  		<p style="font-style:italic;">
 	  			book project
 	  		</p>
@@ -22,9 +21,10 @@ permalink: /research/
 	  		<br>
 	  		This project shows how the jurisdictional conflict between two frontiers of state expansion—building public health infrastructure and establishing the welfare state— and the politics involved in the conflict, uncoupled the otherwise naturally connected maternal and infant health. This project lies at the intersection of public health, state-building, and the welfare state. 
 	  		</p>
+	  		<br>
 	  		<img class="nobile" style="max-width:100%;" src="/research/dissertation/f1.png" alt="f1" width="100%" height="50%">
 	  		<img class="nobile" style="max-width:100%;" src="/research/dissertation/f2.png" alt="f2" width="100%" height="50%" class="centerImage">
-	  	</div>
+	  	<br>
 	  	<br>
 	</div>
 	<div class="section-text">
@@ -47,14 +47,12 @@ permalink: /research/
 	  		<p>
 	  		 [<a href="/research/heterogenuity/heterogeneity_xiang.pdf">paper</a>] [<a href="/research/heterogenuity/poster_CSSS.pdf">poster</a>]
 	  		</p>
-	  		<div class="subsection-text">
 	  		I propose a layered Dirichlet process hidden Markov model to detect heterogeneity across units and over time simultaneously with TSCS data. One application of this method is to reevaluate the argument that Western aid promoted democracy in Africa. The model automatically detects the end of the Cold War as the dividing point, identifies a subgroup of former Soviet Unions’ allies, and shows that the argument only holds in this subgroup after the Cold War.
 	  		<br>
 	  		<br>
 	  		<p style="font-style:italic;">
 	  			*<a href="https://shiraito.github.io" target="_blank">CSSS 20th anniversay conference</a> poster award
 	  		</p>
-	  		</div>
 	  	</div>
 	  	<br>
 	    <div class="section-text">
@@ -67,9 +65,7 @@ permalink: /research/
 	  		<p>
 	  		[<a href="/research/igCRP/igCRP.pdf">paper</a>]
 	  		</p>
-	  		<div class="subsection-text">
 	  		We propose a novel nonparametric Bayesian model to examine gradual changes of grouping patterns by introducing a time dynamic to the Dirichlet process mixture model. The proposed method categorizes units into groups and allows the group membership to evolve as a Markov process. We use the method to analyze the gradual reverse of party positions on civil rights in the United States from the 1930s to the 1960s.
-	  		</div>
 	  	</div>
 
 	  
