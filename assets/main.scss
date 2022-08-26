@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+// Nuannuan's definition
+
+
+$base-font-family: "Crimson Text", serif;
+
+$title-font-size: 40px;
+$title-font-weight: 600;
+$title-font-color: #59253a;
+
+$head-font-size: 25px;
+$head-font-weight: 600;
+$head-font-color: #78244c;
+$head-font-style: italic;
+
+$subhead-font-size: 20px;
+$subhead-font-color:#895061;
+
+
+$nav-font-color: #0677a1;
+
+$text-font-size: 18px;
+$text-line-height: 100%;
+$text-font-color: #121212;
+
+$subtext-font-color: lighten(#121212,0%);
+
+//$text-font-color: #4d4d4d;
+
+
+@import "minima";
