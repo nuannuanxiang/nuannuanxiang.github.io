@@ -22,8 +22,7 @@ title: Nuannuan Xiang
 email: nuannuan_xiang@brown.edu
 
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Nuannuan Xiang's website
+description: Nuannuan Xiang's website
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
