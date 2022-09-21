@@ -12,6 +12,7 @@ vendor
 .ruby-version
 *.gem
 Gemfile.lock
+Gemfile
 
 # Files
 .analysis
