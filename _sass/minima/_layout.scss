@@ -52,6 +52,20 @@
     }
   }
 
+    .page-link-hide {
+    color: $background-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+
+    &:hover{
+      color:$grey-color;
+    }
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
