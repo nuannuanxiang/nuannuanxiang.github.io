@@ -1,0 +1,24 @@
+---
+layout: default
+title: random
+permalink: /random/
+---
+
+<div class="content">
+	<div class="textbox">
+	  <h2 class="section-head">random</h2>
+	  <div class="section-text">
+	  	<br>
+	    <ul class="post-list">
+	    {% for post in site.posts %}
+	      <li>
+	      	<a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+	      	<p>{{ post.date | date_to_long_string }}
+      		<br><i>{{ post.description }}</i></p>
+	      	
+	      </li>
+	    {% endfor %}
+	  </ul> 
+	  </div>
+	</div>
+</div>
