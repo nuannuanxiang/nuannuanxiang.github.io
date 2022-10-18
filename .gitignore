@@ -15,6 +15,7 @@ Gemfile.lock
 Gemfile
 
 # Files
+.gitignore
 .analysis
 .DS_Store
 *.swp
@@ -29,3 +30,4 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+/guide
